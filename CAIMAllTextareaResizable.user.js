@@ -5,7 +5,7 @@
 // @description     Force all textarea fields on CA Identity Manager User Console to be resizable. Specially it's for BLTH javascript developers to enlarge the javascript textarea fields during script development.
 // @version         0.1
 // @include         http://*/iam/im/*
-// @downloadURL     https://raw.githubusercontent.com/iamtools/utilities/master/CAIMAllTextareaResizable.user.js
+// @downloadURL     https://raw.githubusercontent.com/idmtools/utilities/master/CAIMAllTextareaResizable.user.js
 // @run-at          document-end
 // @grant           none
 // ==/UserScript==
